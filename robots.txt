@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giwudev.github.io/snippets-ud4gs2/sitemap.xml
